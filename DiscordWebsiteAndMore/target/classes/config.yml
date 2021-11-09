@@ -1,0 +1,50 @@
+#--------------------------------------------------------------------------
+#               Discord_Invite-Website_URL-More
+#--------------------------------------------------------------------------
+# I Hope you all enjoy this plugin! If you all do, Leave a 5 star review!
+# If you all need any support at all Join our discord!!!
+# https://discord.gg/PSZS7WnuG2
+#--------------------------------------------------------------------------
+# Plugin Permissions
+#--------------------------------------------------------------------------
+# dwm.default: (This permission must be given out to everyone,
+# It will be used for everything you may want reg players to have)
+#
+# dwm.ping: (This will allow you to specifically choose who you
+# want to be able to ping!)
+#
+# dwm.admin: (This perm will receive pings from /dwmping admin)
+#
+# dwm.mod:  (This perm will receive pings from /dwmping mod)
+#
+# dwm.helper: (This perm will receive pings from /dwmping helper)
+#--------------------------------------------------------------------
+# Server Urls
+#--------------------------------------------------------------------
+Discord-URL: 'discord invite'
+Website-URL: 'server website'
+Dynmap-URL: 'dynmap url'
+
+Voting-URL1: 'voting site 1'
+Voting-URL2: 'voting site 2'
+Voting-URL3: 'voting site 3'
+Voting-URL4: 'voting site 4'
+Voting-URL5: 'voting site 5'
+
+Join-Message: 'Custom Message Here'
+
+#------------------------------------------------------------------------------------
+# Custom Ping Messages   (Broadcast msg Ex. player.getName() + adminPlayerMsg)
+# @Tip: In the Example above player.getName() is always the person who sent the
+#  ping!
+#
+# @Tip:adminPlayerMsg is going to be the custom msg that you put in
+#  Admin-To-Player-Auto-Msg: 'Custom Message Here'
+#------------------------------------------------------------------------------------
+Admin-Broadcast-Received-Msg: 'is in need of assistance!'
+Mod-Broadcast-Received-Msg: 'is in need of assistance!'
+Helper-Broadcast-Received-Msg: 'is in need of assistance!'
+
+Admin-To-Player-Auto-Msg: 'An Admin will be with you shortly! '
+Mod-To-Player-Auto-Msg: 'A Mod will be with you shortly!'
+Helper-To-Player-Auto-Msg: 'A Helper will be with you shortly!'

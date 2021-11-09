@@ -1,0 +1,18 @@
+name: DiscordWebsiteAndMore
+version: '${project.version}'
+main: com.bigtallahasee.me.discordwebsiteandmore.DiscordWebsiteAndMore
+api-version: 1.17
+authors: [ BigTallahasee ]
+description: This will allow your players to display your discord website and more in chat
+website: https://galaxystudio1.godaddysites.com/
+commands:
+  discord:
+    description: This will display your Discord Invite in chat!
+  website:
+    description: This will display your Website Url in the chat!
+  voting:
+    description: This will allow you to display 5 voting sites!
+  dwmreload:
+    description: This will reload the config!
+  dwmping:
+    description: Allows the player to ping individual roles based on permissions!

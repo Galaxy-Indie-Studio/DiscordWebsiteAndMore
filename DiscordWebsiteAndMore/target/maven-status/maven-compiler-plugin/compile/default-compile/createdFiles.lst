@@ -1,0 +1,15 @@
+com\bigtallahasee\me\discordwebsiteandmore\DiscordWebsiteAndMore.class
+com\bigtallahasee\me\discordwebsiteandmore\commands\PingCommand.class
+com\bigtallahasee\me\discordwebsiteandmore\utils\Logger$LogLevel.class
+com\bigtallahasee\me\discordwebsiteandmore\commands\VotingURL.class
+com\bigtallahasee\me\discordwebsiteandmore\utils\tabslist\TabManager.class
+com\bigtallahasee\me\discordwebsiteandmore\utils\FileManager.class
+com\bigtallahasee\me\discordwebsiteandmore\utils\Settings.class
+com\bigtallahasee\me\discordwebsiteandmore\utils\Logger$1.class
+com\bigtallahasee\me\discordwebsiteandmore\commands\WebsiteURL.class
+com\bigtallahasee\me\discordwebsiteandmore\commands\DynmapUrl.class
+com\bigtallahasee\me\discordwebsiteandmore\utils\Logger.class
+com\bigtallahasee\me\discordwebsiteandmore\commands\DiscordInvite.class
+com\bigtallahasee\me\discordwebsiteandmore\commands\ReloadConfig.class
+com\bigtallahasee\me\discordwebsiteandmore\events\WelcomeServerEvent.class
+com\bigtallahasee\me\discordwebsiteandmore\utils\UpdateChecker.class
